@@ -97,7 +97,7 @@ Desktop banking application for handling payments, withdrawals, and staff manage
 
 📧 **Email:** pandeypankhuri19@gmail.com  
 
-💼 **LinkedIn:** Add your LinkedIn link here
+💼 **LinkedIn:** https://www.linkedin.com/in/pankhuri-pandey-b42a8328a
 
 ---
 
